@@ -1,6 +1,6 @@
-# CV_Project
+# CV_ImageProcessing&Classification
 
-A Computer Vision project focused on traffic sign and traffic light image processing and classification (derived from a Problem Set assignment).
+A Computer Vision project focused on traffic sign and traffic light image processing and classification.
 
 ## Overview
 
