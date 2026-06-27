@@ -61,9 +61,7 @@ Feel free to open issues or pull requests. When contributing, include clear desc
 
 If you have a preferred license, add it to the repository (e.g., MIT, Apache-2.0). If unsure, the project currently has no license specified.
 
-## Author
 
-Project owner: neetastyagi (https://github.com/neetastyagi)
 
 ---
 
